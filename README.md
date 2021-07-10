@@ -1,2 +1,1 @@
-# Calorie_Calculator-fitness-app-
-C++ based application, that analyzes user’s daily calorie consumptions and workout routines and halps the user to maintain e good health.  KEY FEATURES 1 . Creation of a new user profile along with a password. 2.Add the data of daily food consumption and calorie burn through physical exercises. 3. Edit and delete any day data . 4. search and see recorded data. 5. Auto profile update to keep track of weight gain or lose to calculate bmi
+read the calory calculator.pdf file 
